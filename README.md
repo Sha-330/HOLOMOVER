@@ -1,5 +1,5 @@
 # Holomover
-## This was the first project related to computer science during our college tech fest OBSQURA in 2023. This was done mostly done in the programming level by my seniors , i got to channce to present to the panel and visitors during Tech fest
+## This was the first project related to computer science during our college tech fest OBSQURA in 2023. This was done mostly done in the programming level by my seniors , i got to channce to present to the panel and visitors during Tech fest. This contains 2 modules , one is Handbrush or handpainting which is used for drawing on computer screen basd on hand gestures and the other module is that Handtracking module which can used to control the computer monitor using hand tracking. And this is done using OpenCV.
 
 ## And they are
 
